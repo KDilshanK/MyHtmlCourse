@@ -1,2 +1,0 @@
-# MyHtmlCourse
-Refreshment of html
