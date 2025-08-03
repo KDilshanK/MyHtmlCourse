@@ -1,5 +1,4 @@
 # MyHtmlCourse
 Refreshment of html
 
-1. basic html
-
+https://www.youtube.com/watch?v=0pBAfkZMKy0
