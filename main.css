@@ -6,3 +6,16 @@ body {
   color: whitesmoke;
   background-color: black;
 }
+
+a {
+  color: aliceblue;
+}
+a:visited {
+  color: rgb(166, 160, 160);
+}
+a:hover{
+  color: #eee;
+}
+a:active {
+  color: red;
+}
